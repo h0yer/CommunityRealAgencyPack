@@ -107,7 +107,10 @@ Currently available agencies: (For exact manufacturer tags, see "agents.cfg")
 
 Requirements:
 - None yet...
+
+Recommendations:
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.
+- Install a fully fledged Realism overhaul suite :D
 
 Installation:
 - Standard procedures apply, first delete any old installments, if present.
