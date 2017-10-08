@@ -1,8 +1,10 @@
 # Community Real Agency Pack v1.0
----
-_<p style="text-align: center;">KSP v1.3.1</p>_
 
-The _Community Real Agency Pack_ (in short, _CRAP_, yep, that's just how the universe rolls^^) is a KSP-community powered/driven collection of real world-entities all around the world.
+_<p style="text-align: center;">for KSP v1.3.1</p>_
+
+---
+
+The _Community Real Agency Pack_ (in short, _CRAP_, yep, that's just how the universe rolls^^) is a KSP-community powered/driven collection of real world-entities from all around the world.
 
 It contains large logos for view in mission control, as well as downscaled ones for the vehicle assembly building's manufacturer tab.
 
