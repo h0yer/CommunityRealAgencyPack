@@ -1,6 +1,5 @@
-# Community Real Agency Pack v1.0
-
-_<p style="text-align: center;">for KSP v1.3.1</p>_
+# Community Real Agency Pack v1.0  
+_<p style="text-align: center;">for KSP v1.3.1</p>_  
 
 ---
 
@@ -121,11 +120,12 @@ __Recommendations:__
 - Install a fully fledged Realism overhaul suite :D
 
 __Installation:__  
-- Standard procedures apply, first delete any old installments, if present.  
-- Copy the contents of "GameData" in the downloaded archive into your "KSP\Gamedata\..." folder, keeping subfolder structure. Voilá.
+1. Standard procedures apply, first delete any old installments, if present.  
+- Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.
 
 __Support:__  
-For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:   https://github.com/h0yer/CommunityRealAgencyPack  
+For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:  
+https://github.com/h0yer/CommunityRealAgencyPack  
 or post on the KSP-Forums:  
 https://forum.kerbalspaceprogram.com/index.php?/topic/165915-122-real-agencies-collection-v104/
 
