@@ -113,21 +113,28 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Voronezh Mechanical Plant
 
 __Requirements:__  
-- None yet...
+- _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_.
+
+__Compatibility/Integration:__  
+- _CRAP_ Comes with module manager patches for blackheart612's "_Decal Stickers_" mod and adds all the agency logos to the decal selection.
 
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
 - Install a fully fledged Realism overhaul suite :D
+- I do recommend using blackheart621's _DecalStickers_-mod, you can stick 'em where you want :D
 
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
-2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.
+2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.  
+2. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section)
 
 __Support:__  
 For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:  
 https://github.com/h0yer/CommunityRealAgencyPack  
 or post on the KSP-Forums:  
-https://forum.kerbalspaceprogram.com/index.php?/topic/165915-122-real-agencies-collection-v104/
+https://forum.kerbalspaceprogram.com/index.php?/topic/165915-122-real-agencies-collection-v104/  
+If you need to install _ModuleManager_, check dis out:  
+https://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-281-june-29th-2017-with-n-cats-physics/  
 
 __Credits:__  
 Original Creator: Jan Hoyer (KSP-Forums/GitHub: h0yer)  
