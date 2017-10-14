@@ -125,7 +125,8 @@ __Compatibility/Integration:__
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
 - Install a fully fledged Realism overhaul suite :D
-- I do recommend using blackheart621's _DecalStickers_-mod, you can stick 'em where you want :D
+- I do recommend using blackheart621's _DecalStickers_-mod, you can stick 'em where you want :D  
+- _CRAP_ contains a "mild" swastika, representing the Third Reich (Mittelwerk GmbH), if you are unhappy with that, simply delete "ThirdReich_logo.png" and "ThirdReich_logo_scaled.png" from the Agencies\ subfolder in _CRAP_.
 
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
