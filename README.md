@@ -120,7 +120,8 @@ __Requirements:__
 - _DecalStickers_ requires the _firespitter_ plugin, but it's bundled in the download.
 
 __Compatibility/Integration:__  
-- _CRAP_ Comes with module manager patches for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbalized logos.
+- _CRAP_ Comes with a _ModuleManager_ patch for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbal logos.
+- The patch adds back all Kerbal logos if no _RealismOverhaul_ is present.
 
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
