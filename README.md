@@ -117,6 +117,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 
 __Requirements:__  
 - _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_.
+- _DecalStickers_ requires the _firespitter_ plugin, but it's bundled in the download.
 
 __Compatibility/Integration:__  
 - _CRAP_ Comes with module manager patches for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbalized logos.
@@ -129,7 +130,7 @@ __Recommendations:__
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
 2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.  
-3. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section)
+3. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section, but I guess you have it installed already anyways^^)
 
 __Support:__  
 For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:  
