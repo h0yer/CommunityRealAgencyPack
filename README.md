@@ -129,13 +129,13 @@ __Recommendations:__
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
 2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.  
-2. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section)
+3. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section)
 
 __Support:__  
 For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:  
 https://github.com/h0yer/CommunityRealAgencyPack  
 or post on the KSP-Forums:  
-https://forum.kerbalspaceprogram.com/index.php?/topic/165915-122-real-agencies-collection-v104/  
+https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-community-real-agency-pack-v10/  
 You can find the nice _DecalStickers_ mod here: (comes with _firespitter_ plugin)  
 https://forum.kerbalspaceprogram.com/index.php?/topic/153149-130-decal-stickers-custom-flags-agencies-support-71317/  
 If you need to install _ModuleManager_, check dis out:  
