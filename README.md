@@ -1,5 +1,5 @@
 # Community Real Agency Pack  
-_<p style="text-align: center;">v1.0 for KSP v1.3.1</p>_  
+_<p style="text-align: center;">v1.0.1 for KSP v1.3.1</p>_  
 
 ---
 
@@ -46,7 +46,9 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Douglas
 - EADS
 - EADS Astrium
+- Electric Boat
 - European Space Agency (ESA)
+- General Atomics
 - General Electric Aviation
 - General Electric
 - Godrej
@@ -78,6 +80,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Mittelwerk GmbH
 - Moog
 - NASA
+- National Reconnaissance Office
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
@@ -116,7 +119,7 @@ __Requirements:__
 - _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_.
 
 __Compatibility/Integration:__  
-- _CRAP_ Comes with module manager patches for blackheart612's "_Decal Stickers_" mod and adds all the agency logos to the decal selection.
+- _CRAP_ Comes with module manager patches for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbalized logos.
 
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
@@ -133,12 +136,14 @@ For any manufacturer update requests or bug report, please don't hesitate to ope
 https://github.com/h0yer/CommunityRealAgencyPack  
 or post on the KSP-Forums:  
 https://forum.kerbalspaceprogram.com/index.php?/topic/165915-122-real-agencies-collection-v104/  
+You can find the nice _DecalStickers_ mod here: (comes with _firespitter_ plugin)  
+https://forum.kerbalspaceprogram.com/index.php?/topic/153149-130-decal-stickers-custom-flags-agencies-support-71317/  
 If you need to install _ModuleManager_, check dis out:  
 https://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-281-june-29th-2017-with-n-cats-physics/  
 
 __Credits:__  
 Original Creator: Jan Hoyer (KSP-Forums/GitHub: h0yer)  
 The entire RealismOverhaul team, because reasons.  
-TiktaalikDreaming (KSP-Forums) for providing the "North American Rockwell Space Devision" logo.  
+TiktaalikDreaming (KSP-Forums) for providing the "North American Rockwell Space Division" logo and his continuous support (ElectricBoat, GeneralAtomics).  
 For credits on all other logos, see "CREDITS.TXT" inside the compressed archive or  
 https://github.com/h0yer/CommunityRealAgencyPack/CREDITS.TXT
