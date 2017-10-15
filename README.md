@@ -1,5 +1,5 @@
 # Community Real Agency Pack  
-_<p style="text-align: center;">v1.0 for KSP v1.3.1</p>_  
+_<p style="text-align: center;">v1.1 for KSP v1.3.1</p>_  
 
 ---
 
@@ -22,6 +22,7 @@ The _CRAP_ heap of agencies is (hopefully) regularily updated, by... heaping up 
 __Currently available agencies:__  
 _(For exact manufacturer tags, see "agents.cfg")_
 
+- Antonov
 - Army Ballisic Missile Agency (ABMA)
 - Aerojet
 - Aerojet-Rocketdyne
@@ -33,6 +34,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - BAE Systems
 - Bell Aircraft
 - Bendix Aviation
+- Beriev
 - Blue Origin
 - Boeing
 - Boeing IDS
@@ -46,11 +48,16 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Douglas
 - EADS
 - EADS Astrium
+- Electric Boat
+- Embraer
 - European Space Agency (ESA)
+- Fokker
+- General Atomics
 - General Electric Aviation
 - General Electric
 - Godrej
 - Grumman
+- Hercules
 - Honeywell
 - Hughes
 - HVA Peenemünde
@@ -74,10 +81,12 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Matra Marconi Space
 - McDonnell
 - McDonnell Douglas
+- Mikoyan Gurevich (MiG)
 - Mitsubishi
 - Mittelwerk GmbH
 - Moog
 - NASA
+- National Reconnaissance Office
 - North American Aviation (NAA)
 - North American Rockwell Space Division (NAR)
 - Northrop Grumman
@@ -85,6 +94,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - NPO Energomash
 - NPO Lavochkin
 - NPO Mashinostroyeniya
+- OKB-1 (Soviet Star)
 - Orbital ATK
 - Orbital Sciences
 - PA Polyot
@@ -103,35 +113,51 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Snecma
 - SNTK Kuznetsov
 - SpaceX
+- Suchoi
 - Teledyne Technologies
 - Thiokol
 - TsSKB-Progress
+- Tupolev
 - United Launch Alliance (ULA)
 - United Technologies
 - U.S. Department Of Energy (DOE)
 - U.S. Naval Research Laboratory (NRL)
 - Voronezh Mechanical Plant
+- Yakovlev
 
 __Requirements:__  
-- None yet...
+- _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_.
+- _DecalStickers_ requires the _firespitter_ plugin, but it's bundled in its download.
+
+__Compatibility/Integration:__  
+- _CRAP_ Comes with a _ModuleManager_ patch for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbal logos.
+- The patch adds back all Kerbal logos if no _RealismOverhaul_ is present.
+- And it adds logos from _FASA_, _SSTU_, _TD Industries_ and _North Kerbal Rcokwell_, if they are present and if no _RealismOverhaul_ is found.
 
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
 - Install a fully fledged Realism overhaul suite :D
+- I do recommend using blackheart621's _DecalStickers_-mod, you can stick 'em where you want :D  
+- _CRAP_ contains a "mild" swastika, representing the Third Reich (Mittelwerk GmbH) and a proper Soviet Star representing former Soviet OKBs, if you are unhappy with either, simply delete "ThirdReich_logo.png", "ThirdReich_logo_scaled.png", "CCCP_logo.png" and "CCCP_logo_scaled.png" from the Agencies\ subfolder in _CRAP_.
 
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
-2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.
+2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.  
+3. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section, but I guess you have it installed already anyways^^)
 
 __Support:__  
 For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:  
 https://github.com/h0yer/CommunityRealAgencyPack  
 or post on the KSP-Forums:  
-https://forum.kerbalspaceprogram.com/index.php?/topic/165915-122-real-agencies-collection-v104/
+https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-community-real-agency-pack-v10/  
+You can find the nice _DecalStickers_ mod here: (comes with _firespitter_ plugin)  
+https://forum.kerbalspaceprogram.com/index.php?/topic/153149-130-decal-stickers-custom-flags-agencies-support-71317/  
+If you need to install _ModuleManager_, check dis out:  
+https://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-281-june-29th-2017-with-n-cats-physics/  
 
 __Credits:__  
 Original Creator: Jan Hoyer (KSP-Forums/GitHub: h0yer)  
 The entire RealismOverhaul team, because reasons.  
-TiktaalikDreaming (KSP-Forums) for providing the "North American Rockwell Space Devision" logo.  
+TiktaalikDreaming (KSP-Forums) for providing the "North American Rockwell Space Division" logo and his continuous support (ElectricBoat, GeneralAtomics).  
 For credits on all other logos, see "CREDITS.TXT" inside the compressed archive or  
 https://github.com/h0yer/CommunityRealAgencyPack/CREDITS.TXT
