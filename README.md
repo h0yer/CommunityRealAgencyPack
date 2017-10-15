@@ -22,6 +22,7 @@ The _CRAP_ heap of agencies is (hopefully) regularily updated, by... heaping up 
 __Currently available agencies:__  
 _(For exact manufacturer tags, see "agents.cfg")_
 
+- Antonov
 - Army Ballisic Missile Agency (ABMA)
 - Aerojet
 - Aerojet-Rocketdyne
@@ -33,6 +34,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - BAE Systems
 - Bell Aircraft
 - Bendix Aviation
+- Beriev
 - Blue Origin
 - Boeing
 - Boeing IDS
@@ -47,12 +49,15 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - EADS
 - EADS Astrium
 - Electric Boat
+- Embraer
 - European Space Agency (ESA)
+- Fokker
 - General Atomics
 - General Electric Aviation
 - General Electric
 - Godrej
 - Grumman
+- Hercules
 - Honeywell
 - Hughes
 - HVA Peenemünde
@@ -76,6 +81,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Matra Marconi Space
 - McDonnell
 - McDonnell Douglas
+- Mikoyan Gurevich (MiG)
 - Mitsubishi
 - Mittelwerk GmbH
 - Moog
@@ -88,6 +94,7 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - NPO Energomash
 - NPO Lavochkin
 - NPO Mashinostroyeniya
+- OKB-1 (Soviet Star)
 - Orbital ATK
 - Orbital Sciences
 - PA Polyot
@@ -106,28 +113,32 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Snecma
 - SNTK Kuznetsov
 - SpaceX
+- Suchoi
 - Teledyne Technologies
 - Thiokol
 - TsSKB-Progress
+- Tupolev
 - United Launch Alliance (ULA)
 - United Technologies
 - U.S. Department Of Energy (DOE)
 - U.S. Naval Research Laboratory (NRL)
 - Voronezh Mechanical Plant
+- Yakovlev
 
 __Requirements:__  
 - _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_.
-- _DecalStickers_ requires the _firespitter_ plugin, but it's bundled in the download.
+- _DecalStickers_ requires the _firespitter_ plugin, but it's bundled in its download.
 
 __Compatibility/Integration:__  
 - _CRAP_ Comes with a _ModuleManager_ patch for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbal logos.
 - The patch adds back all Kerbal logos if no _RealismOverhaul_ is present.
+- And it adds logos from _FASA_, _SSTU_, _TD Industries_ and _North Kerbal Rcokwell_, if they are present and if no _RealismOverhaul_ is found.
 
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
 - Install a fully fledged Realism overhaul suite :D
 - I do recommend using blackheart621's _DecalStickers_-mod, you can stick 'em where you want :D  
-- _CRAP_ contains a "mild" swastika, representing the Third Reich (Mittelwerk GmbH), if you are unhappy with that, simply delete "ThirdReich_logo.png" and "ThirdReich_logo_scaled.png" from the Agencies\ subfolder in _CRAP_.
+- _CRAP_ contains a "mild" swastika, representing the Third Reich (Mittelwerk GmbH) and a proper Soviet Star representing former Soviet OKBs, if you are unhappy with either, simply delete "ThirdReich_logo.png", "ThirdReich_logo_scaled.png", "CCCP_logo.png" and "CCCP_logo_scaled.png" from the Agencies\ subfolder in _CRAP_.
 
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
