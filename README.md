@@ -1,5 +1,5 @@
 # Community Real Agency Pack  
-_<p style="text-align: center;">v1.1 for KSP v1.3.1</p>_  
+_<p style="text-align: center;">v1.1.1 for KSP v1.3.1</p>_  
 
 ---
 
