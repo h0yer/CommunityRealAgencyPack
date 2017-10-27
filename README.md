@@ -126,24 +126,26 @@ _(For exact manufacturer tags, see "agents.cfg")_
 - Yakovlev
 
 __Requirements:__  
-- _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_.
-- _DecalStickers_ requires the _firespitter_ plugin, but it's bundled in its download.
+- _ModuleManager_, if you want to combine _CRAP_ with _DecalStickers_ and/or _NEBULA Decals_.
+- _DecalStickers_ and _NEBULA Decals_ both require the _firespitter_ plugin, but it's bundled in both downloads.
+- _TweakScale_ is required for scaling _NEBULA Decals_.
 
 __Compatibility/Integration:__  
-- _CRAP_ Comes with a _ModuleManager_ patch for blackheart612's "_DecalStickers_" mod and adds all the agency logos to the decal selection, while removing all original Kerbal logos.
+- _CRAP_ Comes with a _ModuleManager_ patch for blackheart612's "_DecalStickers_" mod and Krasimir's "_NEBULA Decals_" mod and adds all the agency logos to the decal selection, while removing all original Kerbal logos.
 - The patch adds back all Kerbal logos if no _RealismOverhaul_ is present.
 - And it adds logos from _FASA_, _SSTU_, _TD Industries_ and _North Kerbal Rcokwell_, if they are present and if no _RealismOverhaul_ is found.
 
 __Recommendations:__  
 - Makes not much of sense if installed on a stock "Kerbalized" game, since only very few Kerbal-modders use actual manufacturers.  
 - Install a fully fledged Realism overhaul suite :D
-- I do recommend using blackheart621's _DecalStickers_-mod, you can stick 'em where you want :D  
+- I do recommend using blackheart621's _DecalStickers_-mod and/ or Krasimir's _NEBULA Decals_-mod, you can stick 'em where you want :D  
 - _CRAP_ contains a "mild" swastika, representing the Third Reich (Mittelwerk GmbH) and a proper Soviet Star representing former Soviet OKBs, if you are unhappy with either, simply delete "ThirdReich_logo.png", "ThirdReich_logo_scaled.png", "CCCP_logo.png" and "CCCP_logo_scaled.png" from the Agencies\ subfolder in _CRAP_.
 
 __Installation:__  
 1. Standard procedures apply, first delete any old installments, if present.  
 2. Extract the contents of "GameData" from the downloaded archive into your ".../KSP/Gamedata/..." folder, keeping subfolder structure. Voilá.  
-3. If you want _CRAP_ work nice with _DecalStickers_, download and install _ModuleManager_. (Link see below in support section, but I guess you have it installed already anyways^^)
+3. If you want _CRAP_ work nice with _DecalStickers_ or _NEBULA Decals_, download and install _ModuleManager_. (Link see below in support section, but I guess you have it installed already anyways^^)
+4. Install _TweakScale_, for scaling _NEBULA Decals_.
 
 __Support:__  
 For any manufacturer update requests or bug report, please don't hesitate to open an issue on GitHub:  
@@ -152,8 +154,13 @@ or post on the KSP-Forums:
 https://forum.kerbalspaceprogram.com/index.php?/topic/166314-131-community-real-agency-pack-v10/  
 You can find the nice _DecalStickers_ mod here: (comes with _firespitter_ plugin)  
 https://forum.kerbalspaceprogram.com/index.php?/topic/153149-130-decal-stickers-custom-flags-agencies-support-71317/  
+_NEBULA Decals_ can be found here:  
+https://forum.kerbalspaceprogram.com/index.php?/topic/154127-13-nebula-space-engineering-decals-continued/  
 If you need to install _ModuleManager_, check dis out:  
 https://forum.kerbalspaceprogram.com/index.php?/topic/50533-130-module-manager-281-june-29th-2017-with-n-cats-physics/  
+For proper scaling, _TweakScale_ is available here:  
+https://forum.kerbalspaceprogram.com/index.php?/topic/101540-13x-tweakscale-v237oct-13/  
+
 
 __Credits:__  
 Original Creator: Jan Hoyer (KSP-Forums/GitHub: h0yer)  
